@@ -1,1 +1,1 @@
-# Roxy-s-business-card
+# This is a practice project. It is a business card for my dog.
